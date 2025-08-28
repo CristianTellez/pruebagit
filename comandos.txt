@@ -1,0 +1,10 @@
+git init
+git config user.name "CrisTel"
+git config user.mail "c@c.c"
+git remote add origin "Link"
+
+git status
+git add index.txt
+git status
+git commit -m "Texto o descr"
+git push -u origin master
